@@ -74,7 +74,7 @@
         .image-box img {
             width: 100%;
             height: 100%;
-            object-fit: cover; /* C:\Users\acer\Downloads\New folder/qaa,jpeg */
+            object-fit: cover; /* C:\Users\acer\Downloads\New folder/qaa.jpeg */
         }
 
         /* Grid Layout for Services */
